@@ -1,9 +1,12 @@
 body {
   background-color: darkseagreen;
-  font-family: sans-serif;
+  font-family: candara;
   color: white;
 }
 
+a:hover {
+  background-color: lightskyblue;
+}
 
 #footer {
     position: absolute;
@@ -16,4 +19,17 @@ body {
   padding: 20px;
   font-size: 20px;
   border: 20px solid rgba(0,0,0,0.5);
+}
+
+H2 {
+ font-family: Candara;
+
+}
+
+#main {
+  background-color: darkseagreen;
+  margin: 2%;
+  padding: 2%;
+  border: 50px solid rgba(0,0,0,0.5);
+  width: 50%;
 }
